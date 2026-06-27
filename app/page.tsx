@@ -22,7 +22,7 @@ export default function Home() {
             Hello, I'm
           </p>
 
-          <h1 className="text-5xl font-bold text-gray-900">
+          <h1 className="text-5xl font-bold ">
             Chandan Das
           </h1>
 
