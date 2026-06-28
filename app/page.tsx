@@ -8,7 +8,7 @@ export default function Home() {
         {/* Left Side - Profile Image */}
         <div className="relative w-64 h-64">
           <Image
-            src="/profilepic.avif"
+            src="/profilepic.jpeg"
             alt="Chandan Das"
             fill
             priority
