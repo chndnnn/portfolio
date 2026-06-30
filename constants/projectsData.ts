@@ -4,7 +4,7 @@ export const projects = [
     title: "Real-Time Chat Application",
     description:
       "A full-stack MERN chat application featuring JWT authentication, real-time messaging with Socket.IO, profile management, infinite scrolling, and dark/light mode. Designed with Tailwind CSS and Chakra UI for a seamless user experience.",
-    image: "/projects/chat-app.png",
+    image: "/projects/chatapp.png",
     technologies: [
       "React",
       "Node.js",
@@ -63,7 +63,7 @@ export const projects = [
     title: "Restaurant Booking System",
     description:
       "A MERN stack restaurant seat reservation application featuring intuitive booking flows, responsive UI, efficient form handling, and backend data management.",
-    image: "/projects/restaurant-booking.png",
+    image: "/projects/resturant.png",
     technologies: [
       "React",
       "Node.js",
