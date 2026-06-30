@@ -1,6 +1,10 @@
 import ExperienceCard from "@/components/ExperienceCard";
 import { experiences } from "@/constants/expericenceData";
 
+export const metadata = {
+  title: "Experience",
+};
+
 export default function Experience() {
   return (
     <section className="py-10 px-6">

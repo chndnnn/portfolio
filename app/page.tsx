@@ -1,5 +1,9 @@
 import Image from "next/image";
 
+export const metadata = {
+  title: "Welcome",
+};
+
 export default function Home() {
   return (
     <section className="min-h-[calc(100vh-67px)] flex flex-col items-center justify-center  px-8">

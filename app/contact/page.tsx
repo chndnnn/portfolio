@@ -6,6 +6,11 @@ import {
 } from "react-icons/fa";
 import { FaLocationDot } from "react-icons/fa6";
 
+export const metadata = {
+  title: "Contact",
+};
+
+
 export default function ContactPage() {
   return (
     <section className="min-h-screen bg-slate-950 text-white py-20 px-6">

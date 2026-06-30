@@ -2,6 +2,10 @@ import { projects } from "@/constants/projectsData";
 import { ArrowUpRight  } from "lucide-react";
 import { FaGithub } from "react-icons/fa";
 
+export const metadata = {
+  title: "Projects",
+};
+
 export default function Projects() {
   return (
     <section className="max-w-7xl mx-auto px-6 py-24">
